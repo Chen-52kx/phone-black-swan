@@ -26,7 +26,7 @@
 
 - #### **小米/红米**
 
-  - [2018-07:小米p2p暴雷](https://www.zhihu.com/question/286378544/answer/449384957)
+  - [2018-07：小米p2p暴雷](https://www.zhihu.com/question/286378544/answer/449384957)
   - [2018-11：小米英国耍猴](http://dy.163.com/v2/article/detail/E0N0H5TS05502J8M.html)
 
 - #### 诺基亚
@@ -42,9 +42,9 @@
 
 - #### 三星
 
-  - [三星电池门](https://baike.baidu.com/item/三星电池门)
-  - [三星地图事件](http://www.sohu.com/a/164858255_115302)
-  - [指纹门](https://www.guancha.cn/ChanJing/2019_10_23_522409.shtml?s=zwyxgtjbt)
+  - [2016-08：三星电池门](https://baike.baidu.com/item/三星电池门)
+  - [2017-09：三星地图事件](http://www.sohu.com/a/164858255_115302)
+  - [2019-09：指纹门](https://www.guancha.cn/ChanJing/2019_10_23_522409.shtml?s=zwyxgtjbt)
 
 - #### vivo
 
