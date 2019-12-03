@@ -12,6 +12,8 @@
 
 ​         格式要求：时间：XXX事件。必须有链接！时间以手机上市时间为准！
 
+**所有备注都在文件：[想要说的话：**](https://github.com/Chen-52kx/phone-black-swan/blob/master/notes.md)
+
 ------
 
 #### <a name="目录">**目录**</a>
