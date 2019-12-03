@@ -10,7 +10,9 @@
 
 到底在害怕什么！让唐吉可德勇士们，揭开你的遮羞布。
 
-格式要求：时间：XXX事件。必须有链接！时间以手机上市时间为准！如有疑问，请联系：wo519@outlook.com
+格式要求：时间：XXX事件。必须有链接！时间以手机上市时间为准！
+
+如有疑问，请联系：wo519@outlook.com 请提供证据！！！
 
 **所有备注都在文件：[想要说的话：](https://github.com/Chen-52kx/phone-black-swan/blob/master/notes.md)**
 
