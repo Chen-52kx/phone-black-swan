@@ -10,7 +10,7 @@
 
 ​        到底在害怕什么！让唐吉可德勇士们，揭开你的遮羞布。
 
-​         格式要求：XXX事件。必须有链接！
+​         格式要求：时间：XXX事件。必须有链接！时间以手机上市时间为准！
 
 ------
 
@@ -20,8 +20,12 @@
 - 小米/红米
 - 诺基亚
 - 华为/荣耀
-  - [闪存门](https://baike.baidu.com/item/华为P10闪存门/20723765) 
-  - [绿屏门](https://baike.baidu.com/item/华为绿屏门)
+  - [2017-03：闪存门](https://baike.baidu.com/item/华为P10闪存门/20723765) 
+  - [2017-03：疏油层](http://news.mydrivers.com/1/528/528801.htm)
+  - [2018-03：宣传图作弊](https://baijiahao.baidu.com/s?id=1596323156146321265&wfr=spider&for=pc)
+  - [2018-03：跑分作弊](https://baijiahao.baidu.com/s?id=1611142076068477961&wfr=spider&for=pc)
+  - [2018-10：绿屏门](https://baike.baidu.com/item/华为绿屏门)
+  - [2019-04：月亮门](https://www.huahuo.com/hulianwang/2019-06-17/63827.html)
 - 三星
   - [三星电池门](https://baike.baidu.com/item/三星电池门)
   - [三星地图事件](http://www.sohu.com/a/164858255_115302)
