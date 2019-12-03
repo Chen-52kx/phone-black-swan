@@ -18,7 +18,11 @@
 - 小米/红米
 - 诺基亚
 - 华为/荣耀
+  - [闪存门](https://baike.baidu.com/item/华为P10闪存门/20723765) 
+  - [绿屏门](https://baike.baidu.com/item/华为绿屏门)
 - 三星
+  - [三星电池门](https://baike.baidu.com/item/三星电池门)
+  - [指纹门](https://www.guancha.cn/ChanJing/2019_10_23_522409.shtml?s=zwyxgtjbt)
 - vivo
 - OPPO
 - Realme
