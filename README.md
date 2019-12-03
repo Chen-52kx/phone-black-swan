@@ -8,7 +8,9 @@
 
 ​        因为[251事件](https://www.thepaper.cn/newsDetail_forward_5124161)遂开源了这个项目，不知道这个开源能维持多久，没想到最后能发声的地方是github平台。让我想起了不久前凤凰网发的一篇文章：[只有在成人网站，一个美国人才能看到香港暴乱的真相……](http://tech.ifeng.com/c/7rdDGs69iYy )
 
-​        到底在害怕什么！
+​        到底在害怕什么！让唐吉可德勇士们，揭开你的遮羞布。
+
+​         格式要求：XXX事件。必须有链接！
 
 ------
 
@@ -22,6 +24,7 @@
   - [绿屏门](https://baike.baidu.com/item/华为绿屏门)
 - 三星
   - [三星电池门](https://baike.baidu.com/item/三星电池门)
+  - [三星地图事件](http://www.sohu.com/a/164858255_115302)
   - [指纹门](https://www.guancha.cn/ChanJing/2019_10_23_522409.shtml?s=zwyxgtjbt)
 - vivo
 - OPPO
