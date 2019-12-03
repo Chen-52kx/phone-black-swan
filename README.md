@@ -12,23 +12,24 @@
 
 ------
 
-<a name="目录">目录</a>
+#### <a name="目录">**目录**</a>
 
-- Apple/苹果
-- Xiaomi/小米
+- 苹果
+- 小米/红米
 - 诺基亚
-- 华为
+- 华为/荣耀
 - 三星
-- honor/荣耀
 - vivo
 - OPPO
-- VOVG
 - Realme
 - SANNAING
 - 魅族
 - 努比亚
 - OnePlus/一加
+- 中兴
+- 锤子
+- HTC
 - 酷派
 - 联想
-- 中兴
+- 索尼
 - 金立
