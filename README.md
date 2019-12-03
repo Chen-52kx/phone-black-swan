@@ -20,6 +20,8 @@
 
 - 苹果
 - 小米/红米
+  - [2018-07:小米p2p暴雷](https://www.zhihu.com/question/286378544/answer/449384957)
+  - [2018-11：小米英国耍猴](http://dy.163.com/v2/article/detail/E0N0H5TS05502J8M.html)
 - 诺基亚
 - 华为/荣耀
   - [2017-03：闪存门](https://baike.baidu.com/item/华为P10闪存门/20723765) 
